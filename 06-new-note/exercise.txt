@@ -1,0 +1,6 @@
+
+browser->server: HTTP GET https://fullstack-exampleapp.herokuapp.com/new_note_spa
+server-->browser: HTML-code
+
+
+Main part of code fo the diagram is from https://fullstackopen.com/en/part0/fundamentals_of_web_apps page
